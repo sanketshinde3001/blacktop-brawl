@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.asset-cache/
+.claude/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+release.zip
+server/wrangler.toml
+.wrangler/
+coverage/

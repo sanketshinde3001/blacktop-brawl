@@ -1,0 +1,45 @@
+{
+  "name": "blacktop-brawl",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Blacktop Brawl: 16-bit motorcycle combat racing in the browser. TypeScript + Vite + Canvas2D + WebAudio.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "assets:images": "tsx scripts/generate-images.ts && tsx scripts/build-manifest.ts",
+    "assets:audio": "tsx scripts/generate-audio.ts && tsx scripts/build-manifest.ts",
+    "assets:manifest": "tsx scripts/build-manifest.ts",
+    "assets:all": "tsx scripts/generate-images.ts && tsx scripts/generate-audio.ts && tsx scripts/build-manifest.ts",
+    "sim": "tsx scripts/simulate.ts",
+    "assets:sheet": "tsx scripts/contact-sheet.ts",
+    "prebuild": "tsx scripts/build-manifest.ts",
+    "predev": "tsx scripts/build-manifest.ts",
+    "assets:local": "tsx scripts/derive-frames.ts && tsx scripts/synth-sfx.ts && tsx scripts/make-icons.ts && tsx scripts/build-manifest.ts",
+    "package": "npm run build && cd dist && rm -f ../release.zip && zip -qr ../release.zip . && cd .. && echo \"release.zip ready\""
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "sharp": "^0.35.4",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.3",
+    "vitest": "^5.0.4"
+  },
+  "dependencies": {
+    "@fontsource/bangers": "^5.3.0",
+    "@fontsource/press-start-2p": "^5.3.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanketshinde3001/blacktop-brawl.git"
+  }
+}
