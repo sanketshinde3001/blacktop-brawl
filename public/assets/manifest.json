@@ -1,0 +1,1385 @@
+{
+ "images": {
+  "bg/desert": {
+   "file": "images/bg/desert.jpg",
+   "w": 2400,
+   "h": 1157,
+   "ax": 1200,
+   "ay": 1157,
+   "horizon": 0.825
+  },
+  "bg/grass": {
+   "file": "images/bg/grass.jpg",
+   "w": 2400,
+   "h": 1157,
+   "ax": 1200,
+   "ay": 1157,
+   "horizon": 0.66
+  },
+  "bg/pacific": {
+   "file": "images/bg/pacific.jpg",
+   "w": 2400,
+   "h": 1157,
+   "ax": 1200,
+   "ay": 1157,
+   "horizon": 0.633
+  },
+  "bg/redwood": {
+   "file": "images/bg/redwood.jpg",
+   "w": 2400,
+   "h": 1157,
+   "ax": 1200,
+   "ay": 1157,
+   "horizon": 0.649
+  },
+  "bg/sierra": {
+   "file": "images/bg/sierra.jpg",
+   "w": 2400,
+   "h": 1157,
+   "ax": 1200,
+   "ay": 1157,
+   "horizon": 0.559
+  },
+  "bikes/apex": {
+   "file": "images/bikes/apex.webp",
+   "w": 720,
+   "h": 396,
+   "ax": 314,
+   "ay": 394
+  },
+  "bikes/banshee": {
+   "file": "images/bikes/banshee.webp",
+   "w": 720,
+   "h": 433,
+   "ax": 365,
+   "ay": 431
+  },
+  "bikes/inferno": {
+   "file": "images/bikes/inferno.webp",
+   "w": 720,
+   "h": 440,
+   "ax": 358,
+   "ay": 439
+  },
+  "bikes/jackal": {
+   "file": "images/bikes/jackal.webp",
+   "w": 720,
+   "h": 376,
+   "ax": 348,
+   "ay": 374
+  },
+  "bikes/kestrel": {
+   "file": "images/bikes/kestrel.webp",
+   "w": 720,
+   "h": 426,
+   "ax": 330,
+   "ay": 424
+  },
+  "bikes/mongrel": {
+   "file": "images/bikes/mongrel.webp",
+   "w": 720,
+   "h": 459,
+   "ax": 348,
+   "ay": 458
+  },
+  "bikes/mudcat": {
+   "file": "images/bikes/mudcat.webp",
+   "w": 708,
+   "h": 447,
+   "ax": 353,
+   "ay": 445
+  },
+  "bikes/nightmare": {
+   "file": "images/bikes/nightmare.webp",
+   "w": 720,
+   "h": 431,
+   "ax": 366,
+   "ay": 429
+  },
+  "bikes/raptor": {
+   "file": "images/bikes/raptor.webp",
+   "w": 720,
+   "h": 466,
+   "ax": 610,
+   "ay": 465
+  },
+  "bikes/straycat": {
+   "file": "images/bikes/straycat.webp",
+   "w": 720,
+   "h": 461,
+   "ax": 208,
+   "ay": 460
+  },
+  "bikes/tempest": {
+   "file": "images/bikes/tempest.webp",
+   "w": 720,
+   "h": 435,
+   "ax": 356,
+   "ay": 433
+  },
+  "bikes/vandal": {
+   "file": "images/bikes/vandal.webp",
+   "w": 720,
+   "h": 401,
+   "ax": 341,
+   "ay": 399
+  },
+  "cars/pickupFront": {
+   "file": "images/cars/pickupFront.webp",
+   "w": 512,
+   "h": 447,
+   "ax": 256,
+   "ay": 446
+  },
+  "cars/pickupRear": {
+   "file": "images/cars/pickupRear.webp",
+   "w": 512,
+   "h": 426,
+   "ax": 255,
+   "ay": 424
+  },
+  "cars/sedanFront": {
+   "file": "images/cars/sedanFront.webp",
+   "w": 512,
+   "h": 314,
+   "ax": 253,
+   "ay": 313
+  },
+  "cars/sedanRear": {
+   "file": "images/cars/sedanRear.webp",
+   "w": 512,
+   "h": 417,
+   "ax": 256,
+   "ay": 415
+  },
+  "cars/semiFront": {
+   "file": "images/cars/semiFront.webp",
+   "w": 402,
+   "h": 512,
+   "ax": 201,
+   "ay": 511
+  },
+  "cars/semiRear": {
+   "file": "images/cars/semiRear.webp",
+   "w": 390,
+   "h": 512,
+   "ax": 207,
+   "ay": 511
+  },
+  "cars/sportsFront": {
+   "file": "images/cars/sportsFront.webp",
+   "w": 512,
+   "h": 372,
+   "ax": 256,
+   "ay": 371
+  },
+  "cars/sportsRear": {
+   "file": "images/cars/sportsRear.webp",
+   "w": 512,
+   "h": 345,
+   "ax": 254,
+   "ay": 344
+  },
+  "cars/vanFront": {
+   "file": "images/cars/vanFront.webp",
+   "w": 512,
+   "h": 470,
+   "ax": 256,
+   "ay": 469
+  },
+  "cars/vanRear": {
+   "file": "images/cars/vanRear.webp",
+   "w": 483,
+   "h": 512,
+   "ax": 241,
+   "ay": 510
+  },
+  "cars/wagonRear": {
+   "file": "images/cars/wagonRear.webp",
+   "w": 512,
+   "h": 352,
+   "ax": 262,
+   "ay": 351
+  },
+  "portraits/blaze": {
+   "file": "images/portraits/blaze.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/buzz": {
+   "file": "images/portraits/buzz.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/cop": {
+   "file": "images/portraits/cop.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/deacon": {
+   "file": "images/portraits/deacon.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/dixie": {
+   "file": "images/portraits/dixie.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/grinder": {
+   "file": "images/portraits/grinder.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/jet": {
+   "file": "images/portraits/jet.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/knuckles": {
+   "file": "images/portraits/knuckles.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/krystal": {
+   "file": "images/portraits/krystal.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/mechanic": {
+   "file": "images/portraits/mechanic.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/mongo": {
+   "file": "images/portraits/mongo.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/razor": {
+   "file": "images/portraits/razor.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/roxy": {
+   "file": "images/portraits/roxy.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/salesman": {
+   "file": "images/portraits/salesman.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/snake": {
+   "file": "images/portraits/snake.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/tank": {
+   "file": "images/portraits/tank.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "portraits/tanya": {
+   "file": "images/portraits/tanya.jpg",
+   "w": 512,
+   "h": 512,
+   "ax": 256,
+   "ay": 512
+  },
+  "props/bannerFinish": {
+   "file": "images/props/bannerFinish.webp",
+   "w": 1400,
+   "h": 587,
+   "ax": 701,
+   "ay": 587
+  },
+  "props/bannerStart": {
+   "file": "images/props/bannerStart.webp",
+   "w": 1400,
+   "h": 526,
+   "ax": 705,
+   "ay": 526
+  },
+  "props/barn": {
+   "file": "images/props/barn.webp",
+   "w": 768,
+   "h": 554,
+   "ax": 448,
+   "ay": 552
+  },
+  "props/barrelCactus": {
+   "file": "images/props/barrelCactus.webp",
+   "w": 640,
+   "h": 582,
+   "ax": 319,
+   "ay": 581
+  },
+  "props/beachHouse": {
+   "file": "images/props/beachHouse.webp",
+   "w": 640,
+   "h": 531,
+   "ax": 291,
+   "ay": 529
+  },
+  "props/billboard1": {
+   "file": "images/props/billboard1.webp",
+   "w": 648,
+   "h": 635,
+   "ax": 247,
+   "ay": 633
+  },
+  "props/billboard2": {
+   "file": "images/props/billboard2.webp",
+   "w": 589,
+   "h": 692,
+   "ax": 117,
+   "ay": 690
+  },
+  "props/billboard3": {
+   "file": "images/props/billboard3.webp",
+   "w": 611,
+   "h": 610,
+   "ax": 141,
+   "ay": 608
+  },
+  "props/billboard4": {
+   "file": "images/props/billboard4.webp",
+   "w": 646,
+   "h": 636,
+   "ax": 321,
+   "ay": 636
+  },
+  "props/boulderSnow": {
+   "file": "images/props/boulderSnow.webp",
+   "w": 640,
+   "h": 582,
+   "ax": 395,
+   "ay": 580
+  },
+  "props/bush": {
+   "file": "images/props/bush.webp",
+   "w": 640,
+   "h": 616,
+   "ax": 323,
+   "ay": 615
+  },
+  "props/cabin": {
+   "file": "images/props/cabin.webp",
+   "w": 768,
+   "h": 484,
+   "ax": 347,
+   "ay": 482
+  },
+  "props/coastalRock": {
+   "file": "images/props/coastalRock.webp",
+   "w": 640,
+   "h": 640,
+   "ax": 306,
+   "ay": 638
+  },
+  "props/cow": {
+   "file": "images/props/cow.webp",
+   "w": 640,
+   "h": 525,
+   "ax": 302,
+   "ay": 524
+  },
+  "props/crowd1": {
+   "file": "images/props/crowd1.webp",
+   "w": 768,
+   "h": 437,
+   "ax": 409,
+   "ay": 436
+  },
+  "props/crowd2": {
+   "file": "images/props/crowd2.webp",
+   "w": 768,
+   "h": 499,
+   "ax": 392,
+   "ay": 498
+  },
+  "props/cypress": {
+   "file": "images/props/cypress.webp",
+   "w": 640,
+   "h": 442,
+   "ax": 306,
+   "ay": 441
+  },
+  "props/desertRock": {
+   "file": "images/props/desertRock.webp",
+   "w": 541,
+   "h": 640,
+   "ax": 307,
+   "ay": 638
+  },
+  "props/farmhouse": {
+   "file": "images/props/farmhouse.webp",
+   "w": 768,
+   "h": 482,
+   "ax": 383,
+   "ay": 481
+  },
+  "props/fenceWhite": {
+   "file": "images/props/fenceWhite.webp",
+   "w": 768,
+   "h": 352,
+   "ax": 385,
+   "ay": 351
+  },
+  "props/fenceWood": {
+   "file": "images/props/fenceWood.webp",
+   "w": 768,
+   "h": 330,
+   "ax": 383,
+   "ay": 329
+  },
+  "props/fern": {
+   "file": "images/props/fern.webp",
+   "w": 640,
+   "h": 617,
+   "ax": 315,
+   "ay": 616
+  },
+  "props/flagmanDown": {
+   "file": "images/props/flagmanDown.webp",
+   "w": 352,
+   "h": 640,
+   "ax": 163,
+   "ay": 639
+  },
+  "props/flagmanUp": {
+   "file": "images/props/flagmanUp.webp",
+   "w": 352,
+   "h": 640,
+   "ax": 188,
+   "ay": 639
+  },
+  "props/gasStation": {
+   "file": "images/props/gasStation.webp",
+   "w": 768,
+   "h": 535,
+   "ax": 406,
+   "ay": 533
+  },
+  "props/guardrail": {
+   "file": "images/props/guardrail.webp",
+   "w": 768,
+   "h": 189,
+   "ax": 384,
+   "ay": 188
+  },
+  "props/haybale": {
+   "file": "images/props/haybale.webp",
+   "w": 640,
+   "h": 561,
+   "ax": 344,
+   "ay": 560
+  },
+  "props/joshua": {
+   "file": "images/props/joshua.webp",
+   "w": 471,
+   "h": 640,
+   "ax": 243,
+   "ay": 639
+  },
+  "props/lighthouse": {
+   "file": "images/props/lighthouse.webp",
+   "w": 310,
+   "h": 900,
+   "ax": 155,
+   "ay": 898
+  },
+  "props/log": {
+   "file": "images/props/log.webp",
+   "w": 768,
+   "h": 394,
+   "ax": 504,
+   "ay": 392
+  },
+  "props/mailbox": {
+   "file": "images/props/mailbox.webp",
+   "w": 556,
+   "h": 640,
+   "ax": 303,
+   "ay": 640
+  },
+  "props/mossyRock": {
+   "file": "images/props/mossyRock.webp",
+   "w": 640,
+   "h": 611,
+   "ax": 366,
+   "ay": 609
+  },
+  "props/oak": {
+   "file": "images/props/oak.webp",
+   "w": 490,
+   "h": 640,
+   "ax": 245,
+   "ay": 639
+  },
+  "props/palm": {
+   "file": "images/props/palm.webp",
+   "w": 459,
+   "h": 900,
+   "ax": 227,
+   "ay": 898
+  },
+  "props/pine": {
+   "file": "images/props/pine.webp",
+   "w": 456,
+   "h": 900,
+   "ax": 228,
+   "ay": 898
+  },
+  "props/pineTall": {
+   "file": "images/props/pineTall.webp",
+   "w": 250,
+   "h": 900,
+   "ax": 125,
+   "ay": 898
+  },
+  "props/pole": {
+   "file": "images/props/pole.webp",
+   "w": 460,
+   "h": 900,
+   "ax": 230,
+   "ay": 898
+  },
+  "props/rangerStation": {
+   "file": "images/props/rangerStation.webp",
+   "w": 768,
+   "h": 490,
+   "ax": 314,
+   "ay": 488
+  },
+  "props/redwood": {
+   "file": "images/props/redwood.webp",
+   "w": 400,
+   "h": 900,
+   "ax": 197,
+   "ay": 897
+  },
+  "props/redwood2": {
+   "file": "images/props/redwood2.webp",
+   "w": 504,
+   "h": 900,
+   "ax": 251,
+   "ay": 899
+  },
+  "props/rock": {
+   "file": "images/props/rock.webp",
+   "w": 640,
+   "h": 618,
+   "ax": 424,
+   "ay": 617
+  },
+  "props/saguaro": {
+   "file": "images/props/saguaro.webp",
+   "w": 472,
+   "h": 900,
+   "ax": 236,
+   "ay": 899
+  },
+  "props/signCurve": {
+   "file": "images/props/signCurve.webp",
+   "w": 449,
+   "h": 640,
+   "ax": 224,
+   "ay": 639
+  },
+  "props/signSierra": {
+   "file": "images/props/signSierra.webp",
+   "w": 768,
+   "h": 532,
+   "ax": 384,
+   "ay": 532
+  },
+  "props/signSpeed": {
+   "file": "images/props/signSpeed.webp",
+   "w": 316,
+   "h": 640,
+   "ax": 158,
+   "ay": 640
+  },
+  "props/silo": {
+   "file": "images/props/silo.webp",
+   "w": 464,
+   "h": 900,
+   "ax": 232,
+   "ay": 898
+  },
+  "props/skull": {
+   "file": "images/props/skull.webp",
+   "w": 640,
+   "h": 631,
+   "ax": 320,
+   "ay": 629
+  },
+  "props/stump": {
+   "file": "images/props/stump.webp",
+   "w": 640,
+   "h": 553,
+   "ax": 310,
+   "ay": 552
+  },
+  "props/surfShack": {
+   "file": "images/props/surfShack.webp",
+   "w": 768,
+   "h": 474,
+   "ax": 387,
+   "ay": 473
+  },
+  "props/tumbleweed": {
+   "file": "images/props/tumbleweed.webp",
+   "w": 640,
+   "h": 597,
+   "ax": 314,
+   "ay": 595
+  },
+  "props/windmill": {
+   "file": "images/props/windmill.webp",
+   "w": 357,
+   "h": 900,
+   "ax": 170,
+   "ay": 899
+  },
+  "riders/bomber/bikeDown": {
+   "file": "images/riders/bomber/bikeDown.webp",
+   "w": 427,
+   "h": 195,
+   "ax": 133,
+   "ay": 190
+  },
+  "riders/bomber/clubL": {
+   "file": "images/riders/bomber/clubL.webp",
+   "w": 353,
+   "h": 461,
+   "ax": 227,
+   "ay": 460
+  },
+  "riders/bomber/clubR": {
+   "file": "images/riders/bomber/clubR.webp",
+   "w": 411,
+   "h": 463,
+   "ax": 111,
+   "ay": 462
+  },
+  "riders/bomber/down": {
+   "file": "images/riders/bomber/down.webp",
+   "w": 380,
+   "h": 205,
+   "ax": 129,
+   "ay": 203
+  },
+  "riders/bomber/front": {
+   "file": "images/riders/bomber/front.webp",
+   "w": 234,
+   "h": 459,
+   "ax": 116,
+   "ay": 458
+  },
+  "riders/bomber/kickL": {
+   "file": "images/riders/bomber/kickL.webp",
+   "w": 359,
+   "h": 453,
+   "ax": 238,
+   "ay": 452
+  },
+  "riders/bomber/kickR": {
+   "file": "images/riders/bomber/kickR.webp",
+   "w": 405,
+   "h": 469,
+   "ax": 111,
+   "ay": 468
+  },
+  "riders/bomber/punchL": {
+   "file": "images/riders/bomber/punchL.webp",
+   "w": 333,
+   "h": 471,
+   "ax": 209,
+   "ay": 470
+  },
+  "riders/bomber/punchR": {
+   "file": "images/riders/bomber/punchR.webp",
+   "w": 388,
+   "h": 479,
+   "ax": 114,
+   "ay": 478
+  },
+  "riders/bomber/ride": {
+   "file": "images/riders/bomber/ride.webp",
+   "w": 232,
+   "h": 489,
+   "ax": 116,
+   "ay": 487
+  },
+  "riders/bomber/tumble": {
+   "file": "images/riders/bomber/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/brawler/bikeDown": {
+   "file": "images/riders/brawler/bikeDown.webp",
+   "w": 411,
+   "h": 167,
+   "ax": 148,
+   "ay": 162
+  },
+  "riders/brawler/clubL": {
+   "file": "images/riders/brawler/clubL.webp",
+   "w": 363,
+   "h": 393,
+   "ax": 228,
+   "ay": 392
+  },
+  "riders/brawler/clubR": {
+   "file": "images/riders/brawler/clubR.webp",
+   "w": 395,
+   "h": 411,
+   "ax": 106,
+   "ay": 409
+  },
+  "riders/brawler/down": {
+   "file": "images/riders/brawler/down.webp",
+   "w": 375,
+   "h": 240,
+   "ax": 127,
+   "ay": 239
+  },
+  "riders/brawler/front": {
+   "file": "images/riders/brawler/front.webp",
+   "w": 257,
+   "h": 411,
+   "ax": 127,
+   "ay": 410
+  },
+  "riders/brawler/kickL": {
+   "file": "images/riders/brawler/kickL.webp",
+   "w": 367,
+   "h": 397,
+   "ax": 232,
+   "ay": 395
+  },
+  "riders/brawler/kickR": {
+   "file": "images/riders/brawler/kickR.webp",
+   "w": 407,
+   "h": 409,
+   "ax": 135,
+   "ay": 408
+  },
+  "riders/brawler/punchL": {
+   "file": "images/riders/brawler/punchL.webp",
+   "w": 350,
+   "h": 412,
+   "ax": 211,
+   "ay": 411
+  },
+  "riders/brawler/punchR": {
+   "file": "images/riders/brawler/punchR.webp",
+   "w": 361,
+   "h": 411,
+   "ax": 100,
+   "ay": 409
+  },
+  "riders/brawler/ride": {
+   "file": "images/riders/brawler/ride.webp",
+   "w": 278,
+   "h": 412,
+   "ax": 139,
+   "ay": 411
+  },
+  "riders/brawler/tumble": {
+   "file": "images/riders/brawler/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/cop/bikeDown": {
+   "file": "images/riders/cop/bikeDown.webp",
+   "w": 407,
+   "h": 437,
+   "ax": 211,
+   "ay": 436
+  },
+  "riders/cop/clubL": {
+   "file": "images/riders/cop/clubL.webp",
+   "w": 318,
+   "h": 405,
+   "ax": 202,
+   "ay": 404
+  },
+  "riders/cop/clubR": {
+   "file": "images/riders/cop/clubR.webp",
+   "w": 399,
+   "h": 425,
+   "ax": 110,
+   "ay": 424
+  },
+  "riders/cop/down": {
+   "file": "images/riders/cop/down.webp",
+   "w": 369,
+   "h": 206,
+   "ax": 284,
+   "ay": 196
+  },
+  "riders/cop/front": {
+   "file": "images/riders/cop/front.webp",
+   "w": 228,
+   "h": 424,
+   "ax": 112,
+   "ay": 423
+  },
+  "riders/cop/punchL": {
+   "file": "images/riders/cop/punchL.webp",
+   "w": 302,
+   "h": 421,
+   "ax": 184,
+   "ay": 420
+  },
+  "riders/cop/punchR": {
+   "file": "images/riders/cop/punchR.webp",
+   "w": 307,
+   "h": 419,
+   "ax": 102,
+   "ay": 418
+  },
+  "riders/cop/ride": {
+   "file": "images/riders/cop/ride.webp",
+   "w": 233,
+   "h": 427,
+   "ax": 116,
+   "ay": 426
+  },
+  "riders/cop/tumble": {
+   "file": "images/riders/cop/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/player/bikeDown": {
+   "file": "images/riders/player/bikeDown.webp",
+   "w": 407,
+   "h": 437,
+   "ax": 211,
+   "ay": 436
+  },
+  "riders/player/clubL": {
+   "file": "images/riders/player/clubL.webp",
+   "w": 363,
+   "h": 476,
+   "ax": 244,
+   "ay": 475
+  },
+  "riders/player/clubR": {
+   "file": "images/riders/player/clubR.webp",
+   "w": 358,
+   "h": 476,
+   "ax": 118,
+   "ay": 475
+  },
+  "riders/player/down": {
+   "file": "images/riders/player/down.webp",
+   "w": 478,
+   "h": 453,
+   "ax": 238,
+   "ay": 452
+  },
+  "riders/player/kickL": {
+   "file": "images/riders/player/kickL.webp",
+   "w": 354,
+   "h": 476,
+   "ax": 234,
+   "ay": 475
+  },
+  "riders/player/kickR": {
+   "file": "images/riders/player/kickR.webp",
+   "w": 353,
+   "h": 476,
+   "ax": 118,
+   "ay": 475
+  },
+  "riders/player/punchL": {
+   "file": "images/riders/player/punchL.webp",
+   "w": 338,
+   "h": 476,
+   "ax": 218,
+   "ay": 475
+  },
+  "riders/player/punchR": {
+   "file": "images/riders/player/punchR.webp",
+   "w": 340,
+   "h": 476,
+   "ax": 118,
+   "ay": 475
+  },
+  "riders/player/ride": {
+   "file": "images/riders/player/ride.webp",
+   "w": 238,
+   "h": 476,
+   "ax": 118,
+   "ay": 475
+  },
+  "riders/player/runBack1": {
+   "file": "images/riders/player/runBack1.webp",
+   "w": 230,
+   "h": 473,
+   "ax": 96,
+   "ay": 472
+  },
+  "riders/player/runBack2": {
+   "file": "images/riders/player/runBack2.webp",
+   "w": 234,
+   "h": 460,
+   "ax": 104,
+   "ay": 459
+  },
+  "riders/player/runFront1": {
+   "file": "images/riders/player/runFront1.webp",
+   "w": 217,
+   "h": 476,
+   "ax": 131,
+   "ay": 475
+  },
+  "riders/player/runFront2": {
+   "file": "images/riders/player/runFront2.webp",
+   "w": 221,
+   "h": 433,
+   "ax": 118,
+   "ay": 432
+  },
+  "riders/player/tumble": {
+   "file": "images/riders/player/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/punk/bikeDown": {
+   "file": "images/riders/punk/bikeDown.webp",
+   "w": 409,
+   "h": 178,
+   "ax": 123,
+   "ay": 173
+  },
+  "riders/punk/clubL": {
+   "file": "images/riders/punk/clubL.webp",
+   "w": 332,
+   "h": 433,
+   "ax": 209,
+   "ay": 431
+  },
+  "riders/punk/clubR": {
+   "file": "images/riders/punk/clubR.webp",
+   "w": 377,
+   "h": 447,
+   "ax": 97,
+   "ay": 446
+  },
+  "riders/punk/down": {
+   "file": "images/riders/punk/down.webp",
+   "w": 379,
+   "h": 205,
+   "ax": 158,
+   "ay": 203
+  },
+  "riders/punk/front": {
+   "file": "images/riders/punk/front.webp",
+   "w": 228,
+   "h": 456,
+   "ax": 115,
+   "ay": 454
+  },
+  "riders/punk/kickL": {
+   "file": "images/riders/punk/kickL.webp",
+   "w": 355,
+   "h": 439,
+   "ax": 237,
+   "ay": 438
+  },
+  "riders/punk/kickR": {
+   "file": "images/riders/punk/kickR.webp",
+   "w": 397,
+   "h": 451,
+   "ax": 115,
+   "ay": 450
+  },
+  "riders/punk/punchL": {
+   "file": "images/riders/punk/punchL.webp",
+   "w": 305,
+   "h": 453,
+   "ax": 181,
+   "ay": 452
+  },
+  "riders/punk/punchR": {
+   "file": "images/riders/punk/punchR.webp",
+   "w": 351,
+   "h": 450,
+   "ax": 107,
+   "ay": 449
+  },
+  "riders/punk/ride": {
+   "file": "images/riders/punk/ride.webp",
+   "w": 228,
+   "h": 461,
+   "ax": 114,
+   "ay": 460
+  },
+  "riders/punk/tumble": {
+   "file": "images/riders/punk/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/racer/bikeDown": {
+   "file": "images/riders/racer/bikeDown.webp",
+   "w": 415,
+   "h": 185,
+   "ax": 141,
+   "ay": 177
+  },
+  "riders/racer/clubL": {
+   "file": "images/riders/racer/clubL.webp",
+   "w": 325,
+   "h": 463,
+   "ax": 205,
+   "ay": 461
+  },
+  "riders/racer/clubR": {
+   "file": "images/riders/racer/clubR.webp",
+   "w": 381,
+   "h": 459,
+   "ax": 89,
+   "ay": 458
+  },
+  "riders/racer/down": {
+   "file": "images/riders/racer/down.webp",
+   "w": 373,
+   "h": 205,
+   "ax": 128,
+   "ay": 203
+  },
+  "riders/racer/front": {
+   "file": "images/riders/racer/front.webp",
+   "w": 224,
+   "h": 458,
+   "ax": 113,
+   "ay": 457
+  },
+  "riders/racer/kickL": {
+   "file": "images/riders/racer/kickL.webp",
+   "w": 341,
+   "h": 450,
+   "ax": 237,
+   "ay": 449
+  },
+  "riders/racer/kickR": {
+   "file": "images/riders/racer/kickR.webp",
+   "w": 391,
+   "h": 462,
+   "ax": 94,
+   "ay": 460
+  },
+  "riders/racer/punchL": {
+   "file": "images/riders/racer/punchL.webp",
+   "w": 306,
+   "h": 471,
+   "ax": 193,
+   "ay": 470
+  },
+  "riders/racer/punchR": {
+   "file": "images/riders/racer/punchR.webp",
+   "w": 285,
+   "h": 452,
+   "ax": 102,
+   "ay": 450
+  },
+  "riders/racer/ride": {
+   "file": "images/riders/racer/ride.webp",
+   "w": 207,
+   "h": 478,
+   "ax": 103,
+   "ay": 477
+  },
+  "riders/racer/tumble": {
+   "file": "images/riders/racer/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/rebel/bikeDown": {
+   "file": "images/riders/rebel/bikeDown.webp",
+   "w": 415,
+   "h": 178,
+   "ax": 134,
+   "ay": 166
+  },
+  "riders/rebel/clubL": {
+   "file": "images/riders/rebel/clubL.webp",
+   "w": 328,
+   "h": 410,
+   "ax": 211,
+   "ay": 409
+  },
+  "riders/rebel/clubR": {
+   "file": "images/riders/rebel/clubR.webp",
+   "w": 386,
+   "h": 434,
+   "ax": 95,
+   "ay": 433
+  },
+  "riders/rebel/down": {
+   "file": "images/riders/rebel/down.webp",
+   "w": 363,
+   "h": 208,
+   "ax": 115,
+   "ay": 206
+  },
+  "riders/rebel/front": {
+   "file": "images/riders/rebel/front.webp",
+   "w": 207,
+   "h": 429,
+   "ax": 103,
+   "ay": 428
+  },
+  "riders/rebel/kickL": {
+   "file": "images/riders/rebel/kickL.webp",
+   "w": 345,
+   "h": 413,
+   "ax": 235,
+   "ay": 412
+  },
+  "riders/rebel/kickR": {
+   "file": "images/riders/rebel/kickR.webp",
+   "w": 385,
+   "h": 440,
+   "ax": 104,
+   "ay": 439
+  },
+  "riders/rebel/punchL": {
+   "file": "images/riders/rebel/punchL.webp",
+   "w": 303,
+   "h": 438,
+   "ax": 192,
+   "ay": 437
+  },
+  "riders/rebel/punchR": {
+   "file": "images/riders/rebel/punchR.webp",
+   "w": 320,
+   "h": 448,
+   "ax": 111,
+   "ay": 447
+  },
+  "riders/rebel/ride": {
+   "file": "images/riders/rebel/ride.webp",
+   "w": 207,
+   "h": 448,
+   "ax": 104,
+   "ay": 447
+  },
+  "riders/rebel/tumble": {
+   "file": "images/riders/rebel/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "riders/yellow/bikeDown": {
+   "file": "images/riders/yellow/bikeDown.webp",
+   "w": 426,
+   "h": 178,
+   "ax": 151,
+   "ay": 166
+  },
+  "riders/yellow/clubL": {
+   "file": "images/riders/yellow/clubL.webp",
+   "w": 361,
+   "h": 425,
+   "ax": 243,
+   "ay": 423
+  },
+  "riders/yellow/clubR": {
+   "file": "images/riders/yellow/clubR.webp",
+   "w": 403,
+   "h": 441,
+   "ax": 110,
+   "ay": 440
+  },
+  "riders/yellow/down": {
+   "file": "images/riders/yellow/down.webp",
+   "w": 380,
+   "h": 239,
+   "ax": 154,
+   "ay": 238
+  },
+  "riders/yellow/front": {
+   "file": "images/riders/yellow/front.webp",
+   "w": 229,
+   "h": 444,
+   "ax": 114,
+   "ay": 442
+  },
+  "riders/yellow/kickL": {
+   "file": "images/riders/yellow/kickL.webp",
+   "w": 396,
+   "h": 441,
+   "ax": 277,
+   "ay": 439
+  },
+  "riders/yellow/kickR": {
+   "file": "images/riders/yellow/kickR.webp",
+   "w": 401,
+   "h": 441,
+   "ax": 116,
+   "ay": 440
+  },
+  "riders/yellow/punchL": {
+   "file": "images/riders/yellow/punchL.webp",
+   "w": 327,
+   "h": 439,
+   "ax": 202,
+   "ay": 438
+  },
+  "riders/yellow/punchR": {
+   "file": "images/riders/yellow/punchR.webp",
+   "w": 330,
+   "h": 453,
+   "ax": 119,
+   "ay": 452
+  },
+  "riders/yellow/ride": {
+   "file": "images/riders/yellow/ride.webp",
+   "w": 238,
+   "h": 453,
+   "ax": 119,
+   "ay": 452
+  },
+  "riders/yellow/tumble": {
+   "file": "images/riders/yellow/tumble.webp",
+   "w": 409,
+   "h": 317,
+   "ax": 90,
+   "ay": 316
+  },
+  "ui/busted": {
+   "file": "images/ui/busted.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/gameover": {
+   "file": "images/ui/gameover.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/lounge": {
+   "file": "images/ui/lounge.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/map": {
+   "file": "images/ui/map.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/shop": {
+   "file": "images/ui/shop.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/title": {
+   "file": "images/ui/title.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/victory": {
+   "file": "images/ui/victory.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  },
+  "ui/wrecked": {
+   "file": "images/ui/wrecked.jpg",
+   "w": 1920,
+   "h": 1072,
+   "ax": 960,
+   "ay": 1072
+  }
+ },
+ "audio": {
+  "music/busted": "audio/music/busted.wav",
+  "music/gameover": "audio/music/gameover.wav",
+  "music/levelup": "audio/music/levelup.wav",
+  "music/lose": "audio/music/lose.wav",
+  "music/win": "audio/music/win.mp3",
+  "sfx/carCrash": "audio/sfx/carCrash.wav",
+  "sfx/cash": "audio/sfx/cash.wav",
+  "sfx/club": "audio/sfx/club.wav",
+  "sfx/crash": "audio/sfx/crash.wav",
+  "sfx/crowd": "audio/sfx/crowd.wav",
+  "sfx/grab": "audio/sfx/grab.wav",
+  "sfx/gravel": "audio/sfx/gravel.wav",
+  "sfx/grunt": "audio/sfx/grunt.wav",
+  "sfx/horn": "audio/sfx/horn.wav",
+  "sfx/kick": "audio/sfx/kick.wav",
+  "sfx/punch": "audio/sfx/punch.wav",
+  "sfx/screech": "audio/sfx/screech.wav",
+  "sfx/siren": "audio/sfx/siren.wav",
+  "sfx/thud": "audio/sfx/thud.wav",
+  "sfx/truckHorn": "audio/sfx/truckHorn.wav",
+  "sfx/whoosh": "audio/sfx/whoosh.wav",
+  "sfx/yell": "audio/sfx/yell.wav",
+  "voice/go": "audio/voice/go.mp3"
+ }
+}
