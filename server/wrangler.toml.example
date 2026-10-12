@@ -1,0 +1,12 @@
+# Copy to wrangler.toml, fill in your KV namespace id, then `npx wrangler deploy`.
+name = "blacktop-brawl-boards"
+main = "leaderboard-worker.js"
+compatibility_date = "2026-09-01"
+
+[[kv_namespaces]]
+binding = "SCORES"
+id = "<your KV namespace id>"
+
+[vars]
+# the site the game is served from, e.g. "https://yourname.itch.io" (or "*" while testing)
+ALLOWED_ORIGIN = "*"
