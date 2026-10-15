@@ -12,3 +12,4 @@ release.zip
 server/wrangler.toml
 .wrangler/
 coverage/
+.vercel/

@@ -1,0 +1,11 @@
+.env
+.env.*
+.asset-cache/
+.claude/
+.git/
+.vercel/
+node_modules/
+dist/
+release.zip
+coverage/
+.wrangler/
