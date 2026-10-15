@@ -2,6 +2,8 @@
 
 A retro-inspired motorcycle combat racing game that runs in your browser. Race through a five-level career, fight rival riders, upgrade your bike, and try to reach the championship.
 
+**[Play the game](https://blacktop-brawl.vercel.app/)** · **[Visit the game website](https://sanketshinde3001.github.io/blacktop-brawl/)**
+
 ![Blacktop Brawl game artwork](public/og-image.jpg)
 
 ## Features
@@ -50,6 +52,7 @@ Built with TypeScript, Vite, Canvas 2D, and Web Audio. The race simulation is se
 - `src/data/` — bikes, riders, tracks, and career settings
 - `src/engine/` — game loop, input, assets, and audio
 - `public/assets/` — game art and sound
+- `docs/` — Blacktop Brawl website, published with GitHub Pages
 
 ## Safety and credits
 
