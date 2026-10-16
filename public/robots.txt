@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blacktop-brawl.vercel.app/sitemap.xml

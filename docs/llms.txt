@@ -1,0 +1,27 @@
+# Blacktop Brawl
+
+> Free, independent browser motorcycle combat racing game by Sanket Shinde. Road Rash-inspired; not affiliated with Electronic Arts.
+
+## Official links
+- [Game information, controls, and FAQ](https://sanketshinde3001.github.io/blacktop-brawl/): Official website.
+- [Play Blacktop Brawl](https://blacktop-brawl.vercel.app/): The playable JavaScript game. No download or account required.
+- [Source code](https://github.com/sanketshinde3001/blacktop-brawl): TypeScript, Vite, Canvas 2D, and Web Audio.
+
+## Game facts
+- Five career levels across Sierra Nevada, Pacific Coast, Redwood Forest, Palm Desert, and Grass Valley.
+- 12 bikes and engine, tyre, brake, armour, and nitro upgrades.
+- Career, quick race, endless, daily challenge, and local two-player split screen.
+- Keyboard, gamepad, and landscape touch controls.
+- Finish fourth or better to qualify. Races have 14 rivals plus the player.
+- Progress is stored locally in the browser; no account-based cloud save.
+- Multiplayer is local on one device, not online matchmaking.
+
+## Controls
+Arrow keys: ride. A/D: hit. S: kick. Space: nitro. Hold Q: look behind. E: camera. Esc: pause.
+
+## Detailed answers
+- [Frequently asked questions](https://sanketshinde3001.github.io/blacktop-brawl/#faq)
+- [Controls](https://sanketshinde3001.github.io/blacktop-brawl/#controls)
+- [Bikes](https://sanketshinde3001.github.io/blacktop-brawl/#garage)
+
+This optional summary supplements the public HTML page; it does not replace normal crawling or promise AI search inclusion.

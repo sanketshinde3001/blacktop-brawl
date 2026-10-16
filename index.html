@@ -5,12 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>%GAME_TITLE% – Free Road Rash-Style Motorcycle Combat Racing Game (Browser)</title>
     <meta name="description" content="%GAME_TITLE% is a free 16-bit motorcycle combat racer you play in the browser, inspired by the classic Road Rash games. Punch, kick and club rival bikers, dodge the cops and win cash across five roads and five levels. Keyboard, gamepad and touch." />
+    <link rel="canonical" href="https://blacktop-brawl.vercel.app/" />
+    <meta property="og:url" content="https://blacktop-brawl.vercel.app/" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="keywords" content="road rash style game, road rash inspired, road rash alternative, motorcycle combat racing, bike fighting game, retro racing game, 16-bit racer, browser game, free online racing game" />
     <meta name="theme-color" content="#e0302a" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="%GAME_TITLE% – Road Rash-style motorcycle combat racing" />
     <meta property="og:description" content="Free 16-bit motorcycle combat racing in your browser, inspired by the classic Road Rash games. Punch, kick, club and race across five roads." />
-    <meta property="og:image" content="og-image.jpg" />
+    <meta property="og:image" content="https://blacktop-brawl.vercel.app/og-image.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <link rel="icon" type="image/png" href="favicon.png" />
@@ -21,12 +24,13 @@
         "@context": "https://schema.org",
         "@type": "VideoGame",
         "name": "%GAME_TITLE%",
-        "alternateName": "Road Rash-style motorcycle combat racer",
+        "url": "https://blacktop-brawl.vercel.app/",
+        "sameAs": "https://sanketshinde3001.github.io/blacktop-brawl/",
         "description": "A free 16-bit motorcycle combat racing game for the browser, inspired by the classic Road Rash series. Fan-made; not affiliated with or endorsed by Electronic Arts.",
         "genre": ["Racing", "Combat racing", "Retro"],
         "gamePlatform": ["Web browser", "Desktop", "Mobile"],
         "applicationCategory": "Game",
-        "playMode": "SinglePlayer",
+        "playMode": ["https://schema.org/SinglePlayer", "https://schema.org/MultiPlayer"],
         "isAccessibleForFree": true,
         "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
       }
@@ -46,6 +50,7 @@
       <p>%GAME_TITLE% is an independent fan-made game inspired by the classic Road Rash series. It is not affiliated with, endorsed or sponsored by Electronic Arts. Road Rash is a trademark of Electronic Arts Inc.</p>
     </header>
     <canvas id="game" tabindex="0" aria-label="%GAME_TITLE% game"></canvas>
+    <nav class="sr-only" aria-label="Game information"><a href="https://sanketshinde3001.github.io/blacktop-brawl/">Blacktop Brawl: features, controls, and frequently asked questions</a></nav>
     <noscript>%GAME_TITLE% needs JavaScript to run. It is a free Road Rash-style motorcycle combat racing game for the browser. Not affiliated with Electronic Arts.</noscript>
     <script type="module" src="./src/main.ts"></script>
   </body>
