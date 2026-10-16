@@ -2,6 +2,8 @@
 
 A retro-inspired motorcycle combat racing game that runs in your browser. Race through a five-level career, fight rival riders, upgrade your bike, and try to reach the championship.
 
+[![README views](https://hits.sh/github.com/sanketshinde3001/blacktop-brawl.svg?style=flat-square&label=README%20views&color=ef493b&labelColor=30363d)](https://hits.sh/github.com/sanketshinde3001/blacktop-brawl/)
+
 **[Play the game](https://blacktop-brawl.vercel.app/)** · **[Visit the game website](https://sanketshinde3001.github.io/blacktop-brawl/)**
 
 ![Blacktop Brawl game artwork](public/og-image.jpg)
