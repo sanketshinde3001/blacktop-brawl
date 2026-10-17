@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanketshinde3001.github.io/blacktop-brawl/sitemap.xml
