@@ -41,6 +41,7 @@ export class OptionsScene extends Scene {
           value: () => (document.fullscreenElement ? 'ON' : 'OFF'),
           onSelect: () => (document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen()).catch(() => {}),
         },
+        { label: 'SUPPORT DEVELOPMENT', onSelect: () => window.open('https://buymeacoffee.com/sanketshinde', '_blank', 'noopener,noreferrer') },
         { label: 'BACK', onSelect: () => this.back() },
       ],
       game,

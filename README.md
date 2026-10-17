@@ -59,3 +59,6 @@ Built with TypeScript, Vite, Canvas 2D, and Web Audio. The race simulation is se
 ## Safety and credits
 
 Blacktop Brawl is an independent hobby game and is not affiliated with or endorsed by Electronic Arts. Code is MIT licensed; see [LICENSE](LICENSE) and [third-party asset credits](THIRD_PARTY_NOTICES.md).
+## Support
+
+If you enjoy the game, you can [support its development](https://buymeacoffee.com/sanketshinde).
